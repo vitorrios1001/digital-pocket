@@ -18,7 +18,7 @@ Bem-vindo ao **Digital Pocket**, um site desktop para registrar metas e acompanh
 
 ## Figma
 
-As telas do projeto estão disponíveis no [Figma](https://figma.com/link-to-design).
+As telas do projeto estão disponíveis no [Figma](./docs/Digital%20Pocket%20•%20in.orbit.fig).
 
 ## Tecnologias
 
