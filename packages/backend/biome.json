@@ -1,5 +1,5 @@
 {
-  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "$schema": "../../node_modules/@biomejs/biome/configuration_schema.json",
   "organizeImports": {
     "enabled": true
   },
@@ -24,8 +24,6 @@
     }
   },
   "files": {
-    "ignore": [
-      "node_modules"
-    ]
+    "ignore": ["node_modules"]
   }
 }
